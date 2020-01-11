@@ -10,6 +10,10 @@ This is a Python and Tensorflow implementation of Posenet v2 released by Google 
 python3 main.py --model model-mobilenet_v2 --output_stride=16 --image_dir ./images --output_dir ./output
 ```
 
+## SAMPLE OUTPUT 
+![Input](https://raw.githubusercontent.com/ajaichemmanam/posenetv2-pythontf/master/images/0002_c3s1_068642_02.jpg)
+![Output](https://raw.githubusercontent.com/ajaichemmanam/posenetv2-pythontf/master/output/0002_c3s1_068642_02.jpg)
+
 ## Other Variants of Posenet TFJS Models
 1. Download models and weights from the links given in TFJS Model URL
 2. Install Tensorflow (tested on ver 1.15.0) and TensorflowJS (tested on ver 1.4.0)
