@@ -1,0 +1,14 @@
+MOBILENET FULL PRECISION STRIDE 16 MODEL
+# MODEL LINK
+https://storage.googleapis.com/tfjs-models/savedmodel/posenet/mobilenet/float/100/model-stride16.json
+
+MOBILENET FULL PRECISION STRIDE 8 MODEL
+https://storage.googleapis.com/tfjs-models/savedmodel/posenet/mobilenet/float/100/model-stride8.json
+
+# MODEL WEIGHT
+https://storage.googleapis.com/tfjs-models/savedmodel/posenet/mobilenet/float/100/group1-shard1of4.bin
+https://storage.googleapis.com/tfjs-models/savedmodel/posenet/mobilenet/float/100/group1-shard2of4.bin
+https://storage.googleapis.com/tfjs-models/savedmodel/posenet/mobilenet/float/100/group1-shard43f4.bin
+https://storage.googleapis.com/tfjs-models/savedmodel/posenet/mobilenet/float/100/group1-shard4of4.bin
+
+#MORE LINKS WILL BE UPDATED SOON
