@@ -28,3 +28,4 @@ python3 main.py --model MODELNAME --output_stride=OUTPUTSTRIDE --image_dir ./ima
 
 ## Credits
 Patrick Levin for TFJS to TF converter
+Ross Wightman for initial work and code base (https://github.com/rwightman/posenet-python) on posenet
