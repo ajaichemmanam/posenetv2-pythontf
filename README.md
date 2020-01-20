@@ -15,7 +15,7 @@ python3 main.py --model model-mobilenet_v2 --output_stride=16 --image_dir ./imag
 ![Output](https://raw.githubusercontent.com/ajaichemmanam/posenetv2-pythontf/master/output/0002_c3s1_068642_02.jpg)
 
 ## Other Variants of Posenet TFJS Models
-1. Download models and weights from the links given in TFJS Model URL
+1. Download models and weights from the links given in [TFJS Model URL](https://github.com/ajaichemmanam/posenetv2-pythontf/blob/master/TFJS%20Model%20URL)
 2. Install Tensorflow (tested on ver 1.15.0) and TensorflowJS (tested on ver 1.4.0)
 3. Install tfjs-to-tf converter from https://github.com/ajaichemmanam/tfjs-to-tf (CREDITS: @patlevin)
 4. After Installation run `tfjs_graph_converter path/to/js/model path/to/frozen/model.pb` in terminal
